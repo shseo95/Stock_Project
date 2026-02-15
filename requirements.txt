@@ -1,3 +1,4 @@
+nbclassic
 pandas
 numpy
 matplotlib
